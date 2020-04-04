@@ -1,4 +1,4 @@
-# troubleshooting
+# Troubleshooting
 Some notes for encountered technical troubles
 
 *The environment I am using is Ubuntu 18.04, the problem descriptions vary with devices.*
